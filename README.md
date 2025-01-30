@@ -172,5 +172,3 @@ BOOM 💥 Emails start rolling out like a well-oiled automation machine. 🏃‍
 | **🌐 Website**     | [https://about.me/sachin-arora](https://about.me/sachin-arora) |
 | **📱 WhatsApp**    | [WhatsApp Me](https://wa.me/919560330483?text=Hello%20Sachin) |
 
-Need help, got feedback, or just want to say hi? Reach out to me here! 📩
-
