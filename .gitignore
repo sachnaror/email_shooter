@@ -1,0 +1,54 @@
+# 🛑 Ignore Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 🛑 Ignore environment-specific files
+.env
+*.log
+*.sqlite3
+db.sqlite3
+instance/
+media/
+uploads/
+
+# 🛑 Ignore virtual environments
+venv/
+env/
+.venv/
+Pipfile
+Pipfile.lock
+
+# 🛑 Ignore Django-related artifacts
+*.db
+*.db-journal
+migrations/**/000*.py
+migrations/**/__pycache__/
+
+# 🛑 Ignore OpenAI and Mailgun Credentials
+email_shooter/settings.py
+email_shooter/.env
+
+# 🛑 Ignore Celery and Redis temporary files
+celerybeat-schedule
+celerybeat.pid
+*.pid
+*.sock
+
+# 🛑 Ignore compiled Cython & Jupyter Notebook checkpoints
+*.so
+.ipynb_checkpoints/
+
+# 🛑 Ignore system files (Mac & Windows)
+.DS_Store
+Thumbs.db
+
+# 🛑 Ignore IDE & editor config files
+.vscode/
+.idea/
+*.iml
+
+# 🛑 Ignore Git & Security Scans
+/.github/
+SECURITY.md
+CODEOWNERS
